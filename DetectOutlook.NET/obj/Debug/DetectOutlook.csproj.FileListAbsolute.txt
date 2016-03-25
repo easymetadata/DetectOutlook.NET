@@ -1,5 +1,0 @@
-d:\users\dave\documents\visual studio 2015\Projects\DetectOutlook\DetectOutlook\bin\Debug\DetectOutlook.exe.config
-d:\users\dave\documents\visual studio 2015\Projects\DetectOutlook\DetectOutlook\bin\Debug\DetectOutlook.exe
-d:\users\dave\documents\visual studio 2015\Projects\DetectOutlook\DetectOutlook\bin\Debug\DetectOutlook.pdb
-d:\users\dave\documents\visual studio 2015\Projects\DetectOutlook\DetectOutlook\obj\Debug\DetectOutlook.exe
-d:\users\dave\documents\visual studio 2015\Projects\DetectOutlook\DetectOutlook\obj\Debug\DetectOutlook.pdb

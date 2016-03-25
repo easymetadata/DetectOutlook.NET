@@ -1,5 +1,0 @@
-d:\Users\dave\Documents\Visual Studio 2015\Projects\DetectOutlook\DetectOutlook\bin\Release\DetectOutlook.exe.config
-d:\Users\dave\Documents\Visual Studio 2015\Projects\DetectOutlook\DetectOutlook\bin\Release\DetectOutlook.exe
-d:\Users\dave\Documents\Visual Studio 2015\Projects\DetectOutlook\DetectOutlook\bin\Release\DetectOutlook.pdb
-d:\Users\dave\Documents\Visual Studio 2015\Projects\DetectOutlook\DetectOutlook\obj\Release\DetectOutlook.exe
-d:\Users\dave\Documents\Visual Studio 2015\Projects\DetectOutlook\DetectOutlook\obj\Release\DetectOutlook.pdb
