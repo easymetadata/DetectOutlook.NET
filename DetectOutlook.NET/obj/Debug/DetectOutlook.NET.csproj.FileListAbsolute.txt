@@ -1,0 +1,6 @@
+D:\Users\dave\Documents\Visual Studio 2015\Projects\DetectOutlook.NET\DetectOutlook.NET\bin\Debug\DetectOutlook.NET.exe.config
+D:\Users\dave\Documents\Visual Studio 2015\Projects\DetectOutlook.NET\DetectOutlook.NET\bin\Debug\DetectOutlook.NET.exe
+D:\Users\dave\Documents\Visual Studio 2015\Projects\DetectOutlook.NET\DetectOutlook.NET\bin\Debug\DetectOutlook.NET.pdb
+D:\Users\dave\Documents\Visual Studio 2015\Projects\DetectOutlook.NET\DetectOutlook.NET\obj\Debug\DetectOutlook.NET.csprojResolveAssemblyReference.cache
+D:\Users\dave\Documents\Visual Studio 2015\Projects\DetectOutlook.NET\DetectOutlook.NET\obj\Debug\DetectOutlook.NET.exe
+D:\Users\dave\Documents\Visual Studio 2015\Projects\DetectOutlook.NET\DetectOutlook.NET\obj\Debug\DetectOutlook.NET.pdb
